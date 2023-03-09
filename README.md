@@ -1,2 +1,3 @@
 # git_test
-My first Testing Github repo!
+
+This is my first commit using linux. Let's start the new journey! (3/9/2023)
